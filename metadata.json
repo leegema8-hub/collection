@@ -1,0 +1,6 @@
+{
+  "name": "收藏家助手",
+  "description": "協助收藏家管理與追蹤各類珍藏，包含公仔、模型、專輯、香水與小卡等。提供詳細數據分析、心願單與保險庫登錄功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
